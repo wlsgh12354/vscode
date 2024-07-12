@@ -1,5 +1,5 @@
 print('1번째 라인')
 print('2번째 라인')
 print('3번째 라인')
-print('4번째 라인')
-print('5섯번째 라인')
+print('4rd line')
+print('5th line')
